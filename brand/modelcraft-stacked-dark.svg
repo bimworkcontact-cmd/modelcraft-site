@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 330" width="620" height="330" role="img" aria-label="Modelcraft">
+<rect width="620" height="330" fill="#082638"/>
+<g transform="translate(250,34)">
+  <g fill="none" stroke="#13b9bd" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M60 10 L104 35.5 L104 86.5 L60 112 L16 86.5 L16 35.5 Z"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M16 35.5 L60 61 L104 35.5"/>
+    <path d="M60 61 L60 112"/>
+  </g>
+</g>
+<text x="310" y="232" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-2.2">
+  <tspan fill="#ffffff">Model</tspan><tspan fill="#13b9bd">craft</tspan>
+</text>
+<text x="310" y="272" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif"
+      font-size="13" font-weight="700" letter-spacing="3.4" fill="#73e1df">BIM · STRUCTURE · DOCUMENTATION</text>
+</svg>

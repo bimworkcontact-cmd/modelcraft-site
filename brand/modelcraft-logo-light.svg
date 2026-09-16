@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120" role="img" aria-label="Modelcraft">
+
+<g transform="translate(8,16)">
+  <g fill="none" stroke="#13b9bd" stroke-width="6.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M44 8 L74 25.5 L74 60.5 L44 78 L14 60.5 L14 25.5 Z"/>
+  </g>
+  <g fill="none" stroke="#082638" stroke-width="5.4" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M14 25.5 L44 43 L74 25.5"/>
+    <path d="M44 43 L44 78"/>
+  </g>
+</g>
+<text x="104" y="76" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-2.2">
+  <tspan fill="#082638">Model</tspan><tspan fill="#1679c4">craft</tspan>
+</text>
+</svg>

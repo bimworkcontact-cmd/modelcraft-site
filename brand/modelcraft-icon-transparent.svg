@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Modelcraft">
+
+<g fill="none" stroke="#082638" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<path d="M60 22 L94 41.5 L94 78.5 L60 98 L26 78.5 L26 41.5 Z"/>
+</g>
+<g fill="none" stroke="#13b9bd" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+<path d="M26 41.5 L60 61 L94 41.5"/>
+<path d="M60 61 L60 98"/>
+</g>
+</svg>
