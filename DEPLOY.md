@@ -1,4 +1,4 @@
-# FrameBIM — Go Live Guide
+# Modelcraft — Go Live Guide
 
 Everything in this folder is ready to deploy. No build step, no dependencies.
 

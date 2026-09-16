@@ -1,4 +1,4 @@
-# Deploying FrameBIM via GitHub
+# Deploying Modelcraft via GitHub
 
 This folder is already a git repository with the first commit made.
 You only need to create the remote and push.
@@ -8,7 +8,7 @@ You only need to create the remote and push.
 ## Step 1 — Create the GitHub repository
 
 1. Go to **https://github.com/new**
-2. Repository name: `framebim-site`
+2. Repository name: `modelcraft-site`
 3. Set it to **Public** (required for free GitHub Pages; optional if using Netlify)
 4. **Do NOT** tick "Add a README" / "Add .gitignore" — the repo already has files
 5. Click **Create repository**
@@ -20,7 +20,7 @@ You only need to create the remote and push.
 Open a terminal in this folder and run the two commands GitHub shows you:
 
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/framebim-site.git
+git remote add origin https://github.com/YOUR-USERNAME/modelcraft-site.git
 git push -u origin main
 ```
 
@@ -36,7 +36,7 @@ use a **Personal Access Token** as the password:
 ## Step 3 — Connect to Netlify (recommended)
 
 1. Go to **https://app.netlify.com** → **Add new site** → **Import an existing project**
-2. Choose **GitHub**, authorise, and pick `framebim-site`
+2. Choose **GitHub**, authorise, and pick `modelcraft-site`
 3. Leave build settings empty — publish directory is `.` (already set in `netlify.toml`)
 4. Click **Deploy**
 
@@ -54,7 +54,7 @@ Without this, enquiries are still saved in Netlify but you won't be emailed.
 
 **Settings → Pages → Source: Deploy from a branch → Branch: `main` / `root` → Save`**
 
-Your site appears at `https://YOUR-USERNAME.github.io/framebim-site/` in a few minutes.
+Your site appears at `https://YOUR-USERNAME.github.io/modelcraft-site/` in a few minutes.
 
 ### Important limitation
 GitHub Pages serves static files only — it **cannot process the enquiry form**.
