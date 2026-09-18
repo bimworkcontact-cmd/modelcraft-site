@@ -17,13 +17,9 @@ That's it — the site is live and shareable.
 
 ## Before you share it with clients
 
-### 1. Replace the domain placeholder
-Three files contain `REPLACE-WITH-YOUR-DOMAIN.com`. Update them once you have a domain:
-- `index.html` (canonical + og:url tags, near the top)
-- `robots.txt`
-- `sitemap.xml`
-
-If you're staying on the free `.netlify.app` URL, use that URL instead.
+### 1. Domain (optional — do this later)
+The site is publishable as-is on the free `.netlify.app` URL. Once you buy a domain,
+tell Claude and the canonical tag, og:url and a sitemap.xml can be added for SEO.
 
 ### 2. Turn on form notifications
 The enquiry form is already wired for Netlify — submissions are captured automatically.
@@ -56,7 +52,6 @@ and the entry should appear under **Forms** in Netlify.
 | `index.html` | The website (fully self-contained — all graphics embedded) |
 | `thanks.html` | Confirmation page after form submission |
 | `robots.txt` | Tells search engines they may index the site |
-| `sitemap.xml` | Helps Google find your pages |
 | `netlify.toml` | Hosting config + basic security headers |
 
 ---

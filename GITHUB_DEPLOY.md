@@ -71,12 +71,8 @@ This is the main reason Netlify is the better fit for this particular site.
 **Netlify:** Domain settings → Add a custom domain → follow the DNS steps. HTTPS is automatic.
 **GitHub Pages:** Settings → Pages → Custom domain, then add a CNAME record at your registrar.
 
-Afterwards, replace `REPLACE-WITH-YOUR-DOMAIN.com` in:
-- `index.html` (canonical + og:url, near the top)
-- `robots.txt`
-- `sitemap.xml`
-
-Then commit and push:
+Afterwards, add the canonical tag, og:url and a sitemap.xml pointing at the real
+domain, then commit and push:
 ```bash
 git add -A && git commit -m "Add real domain" && git push
 ```
