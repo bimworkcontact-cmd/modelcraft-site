@@ -1,0 +1,6 @@
+# Keeps internal notes out of the published site.
+exclude:
+  - DEPLOY.md
+  - GITHUB_DEPLOY.md
+  - netlify.toml
+  - brand/README.md
